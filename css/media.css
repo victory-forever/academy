@@ -1,0 +1,1569 @@
+
+@media screen and (max-width: 1199px) {
+	.new-login {
+		width: 100%;
+	}
+
+	.copyright, .policy {
+		float: none;
+		margin-bottom: 4px;
+		margin-right: 0px;
+	}
+
+	.dropdown-notification-wrap {
+		right: 20%;
+	}
+
+	.main-inner_heading .text-wrap {
+		left: 25%;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		left: 15.5%;
+	}
+
+	.mk {
+		margin-right: 0px;
+	}
+
+	.mk_view {
+		margin-left: 40px;
+		margin-right: 40px;
+	}
+
+	.mk_button {
+		width: 220px;
+	}
+
+	.one-mk_head, .one-lesson_head,
+	.one-lecture_head, .one-qa-session_head {
+		padding: 30px 50px 23px 50px;
+	}	
+
+	.one-mk_footer, .one-lesson_footer,
+	.one-lecture_footer, .one-qa-session_footer {
+		flex-direction: column;
+		justify-content: center;
+		align-items: end;
+		align-items: flex-end;
+		padding-right: 39px;
+	}
+
+	.one-mk_footer-info:first-child,
+	.one-lesson_footer-info:first-child,
+	.one-lecture_footer-info:first-child,
+	.one-qa-session_footer-info:first-child {
+		margin-bottom: 13px;
+	}
+
+	.discussion-post {
+		width: 86.5%;
+	}
+
+	.answer-content {
+		width: 90%;
+	}
+
+	.add-discussion_form {
+		width: 86.5%;
+	}
+
+	.lesson_footer {
+		padding-left: 15px;
+	}
+
+	.lesson_button {
+		width: 190px;
+		font-size: 15px;
+	}
+
+	.content .discussions {
+		width: 72%;
+	}
+
+	.add-question-button, .all-questions_title,
+	.more-questions-button, .my-questions_title,
+	.paginator {
+		margin-left: 30px;
+	}
+
+	.question_title {
+		width: 100%;
+	}
+
+	.question {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.form-wrap {
+		margin-right: 30px;
+	}
+
+	.one-question_info, .one-question_title {
+		margin-left: 55px;
+	}
+
+	.main-content_container .one-discussion {
+		padding: 67px 45px 41px 55px;
+	}
+
+	.main-content_container .add-discussion_form,
+	.main-content_container .discussion-post {
+	    width: 87.5%;
+	}
+
+	.add-question {
+	    padding: 0 30px 67px 90px;
+	}
+
+	#add-new-question {
+	    width: 90%;
+	}
+
+	.qa-session_info {
+		padding: 0 20px;
+	}
+
+	.qa-session_view {
+		margin-left: 30px;
+	}
+
+	.qa-session_button {
+		font-size: 14px;
+	}
+
+	.last-discussions_content .question_info {
+		flex-direction: column;
+		width: 100%;
+        margin-left: 40px;
+	}
+
+	.last-discussions_content .question_title {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+
+	.last-discussions_content .question_time {
+		margin-left: 0px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		left: 35%;
+	}
+
+	.edit-profile {
+		padding: 50px 20px;
+	}
+
+	.edit-profile_userinfo {
+		margin: 0 134px 30px 40px;
+	}	
+
+}
+
+@media screen and (max-width: 991px) {
+	.offer_headline {
+		text-align: center;
+		width: 82%;
+		margin: 0 auto;
+	}
+
+	.offer_headline span {
+		width: 100%;
+	}
+
+	.offer_list {
+		width: 82%;
+		margin: -50px auto 0 auto;
+	}
+
+	.offer_item {
+		margin: 0 auto 20px auto;
+		text-align: center;
+	}
+
+	.fa-circle-thin {
+		float: none;
+	}
+
+	.offer_item-text {
+		display: inline;
+	}
+
+	.offer_button {
+		margin: 0 auto 169px auto;
+	}
+
+	.new-login {
+		width: 77%;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.new-login_head {
+		padding-left: 20%;
+	}
+
+	.dropdown-profile-wrap {
+		right: -5%;
+	}
+
+	.dropdown-notification-wrap {
+		right: 7%;
+	}
+
+	.main-inner_heading .text-wrap {
+		left: 32%;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		left: 21%;
+	}
+
+	.mk_view {
+		margin-right: 118px;
+	}
+
+	.sidebar {
+		margin-top: 80px;
+	}
+
+	.soon-event_body img {
+		margin: 0 auto;
+	}
+
+	.one-mk_footer, .one-lesson_footer,
+	.one-lecture_footer, .one-qa-session_footer {
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+		padding-right: 18px;
+		padding-left: 18px;
+	}
+
+	.one-mk_footer-info:first-child,
+	.one-lesson_footer-info:first-child,
+	.one-lecture_footer-info:first-child,
+	.one-qa-session_footer-info:first-child {
+		margin-bottom: 0px;
+	}
+
+	.one-mk_footer .mk_time,
+	.one-lesson_footer .lesson_time,
+	.one-lecture_footer .lecture_time,
+	.one-qa-session_footer .qa-session_time {
+		margin-right: 15px;
+	}
+
+	.one-mk_footer .mk_view,
+	.one-news_footer .news_view,
+	.one-lesson_footer .lesson_view,
+	.one-lecture_footer .lecture_view,
+	.one-qa-session_footer .qa-session_view {
+		margin-left: 17px;
+	}
+
+	.one-mk_button,
+	.one-lesson_button,
+	.one-lecture_button,
+	.one-qa-session_button {
+		width: 200px;
+	}	
+
+	.discussion-post {
+		width: 89%;
+	}
+
+	.answer-content {
+		width: 92%;
+	}
+
+	.add-discussion_form {
+		width: 89%;
+	}
+
+	.lecture_info {		
+		padding: 40px 20px;
+	}
+
+	.lesson {
+		width: 48.6%;
+	}
+
+	.lesson_footer {
+		padding-left: 20px;
+	}
+
+	.lesson_button {
+		width: 236px;
+		font-size: 16px;
+	}
+
+	.lesson-content::before,
+	.news-content:before {
+		width: 115%;
+		margin-left: -6%;
+	}
+
+	.profile {
+		display: flex;
+		margin-bottom: 37px;
+	}
+
+	.profile_content {
+		margin-top: 0px;
+		margin-left: 30px;
+		width: 32%;
+	}
+
+	.content {
+		flex-direction: column;
+	}
+
+	.content .discussions {
+		width: 100%;
+	}
+
+	.qa-session_button {
+		font-size: 16px;
+	}
+
+	.step {
+		width: 100%;
+	}
+
+	.last-discussions_content .question_info {
+		flex-direction: row;
+		width: auto;
+        margin-left: 0px;
+	}
+
+	.last-discussions_content .question_title {
+		margin-bottom: 0px;
+		width: 200px;
+	}
+
+	.last-discussions_content .question_time {
+		margin-left: 28px;
+	}
+
+	.allnews_content {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+
+	.news-item {
+		padding: 0;
+		width: 44%;
+	}
+
+	.news-item:last-child:after {	
+		content:'';
+		display: block;
+		width: 100%;
+		height: 1px;
+		background-color: #e8e8e8;
+	}
+
+	.allnews_more-button {
+		margin-top: 30px;
+	}
+
+	.event-wrap {
+		width: 300px;
+	    margin: 0 auto;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		left: 46%;
+	}
+
+	.edit-profile {
+		padding: 50px;
+	}
+
+	.edit-profile_userinfo {
+		margin: 0 0px 0px 40px;
+	}
+
+	.edit-profile_subscription {
+		margin-top: 70px;
+	}	
+
+}
+
+@media screen and (max-width: 783px) {
+	.dropdown-profile-wrap {
+		right: -4%;
+	}
+}
+
+@media screen and (max-width: 767px) {
+
+	.fa-bell {	    
+	    margin-right: 26px;	    
+	}
+	
+	.profile-top_name {
+		display: none;
+	}
+
+	.profile-top_info .fa-angle-down {
+		margin-left: 16px;
+	}
+	
+	.hamburger-icon {
+		display: block;
+	}
+
+	.hamburger-menu {
+		background: #fff;
+		position: absolute;
+		width: 100%;
+		z-index: 20;
+		left: 0;
+		display: none;
+	}
+
+	.hamburger-menu .menutop {
+	    padding-left: 0px;
+	    padding-right: 0px;
+	    margin-bottom: 0px;
+	    margin-top: 0px;
+	    flex-direction: column;
+	    text-align: center;
+	    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.15);
+	}
+
+	.menutop-item {
+	    color: #000;
+	    height: 43px;
+	    border-top: 1px solid #e8e8e8;
+	    line-height: 43px;
+	}
+
+	.menutop-item:hover {
+	    background: #e4dffe;	    	    	    
+	}
+
+	.menutop-item a, .menutop-item a:hover, .menutop-item a:active {
+		color: #000;
+		display: block;
+	}
+
+	.hamburger-menu .item-active {
+	    border-bottom: none;
+	    padding-bottom: 0;
+	    color: #000;
+	    font-weight: 100;
+	}
+
+	.item-active a, .item-active a:hover, .item-active a:active {
+		color: #000;
+	}
+
+	.footer-wrap {
+		height: auto;
+	}
+
+	.footer-content {
+		display: block;
+		text-align: center;
+		margin-top: 57px;
+		margin-bottom: 65px;
+	}
+
+	.footer-wrapper {
+		float: none;
+	}
+
+	.footer-item {
+		float: none;
+		margin-bottom: 19px;
+	}
+
+	.copyright {
+		margin-bottom: 14px;
+	}
+
+	.terms {
+		margin-bottom: 32px;
+	}
+
+	.mb {
+		margin-bottom: 14px;
+	}
+
+	.footer-questions {
+		margin-bottom: 9px;
+	}
+
+	.footer-mail {
+		margin: 0 auto;
+		width: 188.12px;
+		float: none;
+	}
+
+	.dropdown-profile-wrap {
+		right: 8%;
+	}	
+
+	.dropdown-notification-wrap {
+		right: 4%;
+	}
+
+	.main-inner_heading .text-wrap {
+		left: 240px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		left: 150px;
+	}
+
+	.mk_footer, .one-lesson_footer,
+	.one-lecture_footer, .one-qa-session_footer {
+		flex-direction: column;
+		align-items: start;
+		height: 154px;
+	}
+
+	.mk_footer-info {
+		display: flex;
+		margin-top: 30px;
+		margin-bottom: 19px;
+	}
+
+	.mk_view {
+		margin-right: 0px;
+	}
+
+	.one-mk_footer, .one-lesson_footer,
+	.one-lecture_footer, .one-qa-session_footer {
+		align-items: end;
+		align-items: flex-end;
+		justify-content: center;
+	}
+
+	.one-mk_footer-info:first-child,
+	.one-lesson_footer-info:first-child,
+	.one-lecture_footer-info:first-child,
+	.one-qa-session_footer-info:first-child {
+		margin-bottom: 20px;
+	}
+
+	.one-discussion {
+		padding: 35px 30px 38px 30px;
+	}
+
+	.main-content_container .one-discussion {
+	    padding: 67px 30px 41px 30px;
+	}
+
+	.discussion-post, .main-content_container .discussion-post {
+		width: 100%;
+	}	
+
+	.user-info {
+		margin-left: 4%;
+	}
+
+	.answer-content, .main-content_container .answer-content{
+		width: 90%;
+	}
+
+	.lecture, .qa-session {
+		flex-direction: column-reverse;
+	}
+
+	.lecture_img, .lecture_info,
+	.qa-session_img, .qa-session_info  {
+		width: 100%;
+	}
+
+	.lecture_img img, .qa-session_img img {
+		margin: 0 auto;
+	}
+
+	.qa-session_info {
+		height: 269px;
+		padding-top: 65px;
+    	padding-bottom: 65px;
+	}
+
+	.profile_content {
+		width: 230px;
+	}
+
+	.add-question {
+	    padding: 0 30px 67px 30px;
+	}
+
+	.last-discussions_content .question_info {
+		flex-direction: column;
+		width: 100%;
+        margin-left: 40px;
+	}
+
+	.last-discussions_content .question_title {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+
+	.last-discussions_content .question_time {
+		margin-left: 0px; 
+	}
+
+	.slideup {
+		width: 300px;
+		margin: 0 auto;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap{
+	    left: 43%;
+	}
+
+	.main-inner_heading .edit-profile-heading{
+		margin-right: 10px;
+	}
+
+	.transaction_head, .transaction_item {
+		padding-left: 30px;
+	}	
+}
+
+@media screen and (max-width: 750px) {
+	.lessons {
+		justify-content: center;
+	}
+
+	.lesson {
+		width: 365px;
+	}
+
+	.question {
+		justify-content: flex-start;
+		align-items: start;
+	}
+
+	.question_info {
+		flex-direction: column;
+		width: 90%;
+	}
+
+	.question_time {
+		margin-left: 0px;
+		margin-right: 36px;
+	}
+
+	.question_views {
+		margin-left: 38px;
+		margin-right: 40px;
+	}
+
+	.question_info-wrap {
+		margin-top: 18px;
+	}
+
+	.question_user {
+		margin-top: 23px;
+	}
+
+	.last-discussions_content .question_title {
+		margin-bottom: 0px;
+	}
+}
+
+@media screen and (max-width: 744px) {
+	.main-inner_heading .edit-profile-text {
+		width: 280px;
+		font-size: 12px;
+		margin-top: 0px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		left: 310px;
+	}
+}
+
+@media screen and (max-width: 703px) {
+	.offer_headline, .offer_list {
+		width: 100%;
+	}	
+
+	.new-login_head {
+		padding-left: 16%;
+	}
+
+	.step_text {
+		width: 60%;
+	}
+
+	.edit-profile_img, .edit-profile_subscription, .edit-profile_userinfo {
+	    float: none;
+	}
+
+	.edit-profile_userinfo {
+	    margin: 48px 0px 0px 0px;
+	}
+
+	.edit-profile_edit-img {
+		justify-content: start;
+	}
+
+	.edit-img {
+		margin-left: 29px;
+	}
+
+	.transaction_item {
+		font-size: 12px;
+	}
+
+	.transaction_head {
+		font-size: 16px;
+	}
+
+	.transaction_product {
+		margin-right: 10px;
+	}
+
+	.transaction_date {
+		margin-right: 5px;
+	}
+}
+
+@media screen and (max-width: 650px) {	
+	.main-inner_heading .text-wrap {
+		margin-top: -25px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		margin-top: 0px;
+	}
+
+	.main-inner_heading .text {
+		width: 280px;
+		font-size: 12px;
+	}
+
+	.main-inner_heading .text-s {
+		width: 380px;
+		font-size: 14px;
+	}
+
+	.lesson-content::before,
+	.news-content:before {
+		width: 118%;
+		margin-left: -7%;
+	}
+
+	.answer-answer {
+	    margin-left: 0px;
+	}
+
+	.card-wrap {
+	    width: 95%;
+	}
+
+	.card-back, .card-front {
+	    width: 66%;	  
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		margin-top: 0px;
+	}
+}
+
+@media screen and (max-width: 625px) {
+	.new-login_head {
+		padding-left: 12%;
+	}
+
+	.dropdown-profile-wrap {
+		right: 12%;
+	}
+
+	.one-mk_head, .one-lesson_head,
+	.one-lecture_head, .one-qa-session_head {
+		padding: 30px 30px 23px 30px;
+	}
+
+	.card-front {
+		padding-right: 25px;
+	}
+
+	.step-two_form input {
+		width: 90%;
+	}
+
+	.step-two_form .card-back input {
+		margin-right: 20px;
+	}
+
+	.card-back {
+		margin-left: 34%;
+	}
+
+	.main-inner_heading .edit-profile-text {
+		width: 220px;
+		font-size: 10px;
+	}
+}
+
+@media screen and (max-width: 590px) {
+	.one-discussion {
+		padding: 35px 10px 38px 10px;
+	}
+
+	.main-content_container .one-discussion {
+	    padding: 67px 10px 41px 10px;
+	}
+
+	.add-discussion_form, .main-content_container .add-discussion_form {
+		width: 86%;
+	}
+
+	.discussions_tab:first-child {
+		margin-left: 10px;
+	}
+
+	.form-wrap {
+		margin-right: 10px;
+	}
+
+	.discussions_tab {
+		width: 100px;
+	}
+
+	.one-question_info, .one-question_title {
+	    margin-left: 30px;
+	}
+
+	.add-question {
+	    padding: 0 10px 67px 25px;
+	}
+
+	.news-item {	    
+	    width: 100%;
+	    padding: 0 20px;
+	}
+	.news-item:last-child::after {
+	    content: '';
+	    display: block;
+	    width: 0;
+	    height: 0;
+	    background-color: #e8e8e8;
+	}
+}
+
+@media screen and (max-width: 560px) {
+	.new-login {
+		width: 90%;
+	}
+
+	.new-login_head {
+		padding-left: 14%;
+	}
+
+	.additional::before {
+		width: 100%;
+	}
+
+	.main-inner_heading .text-wrap {
+		margin-top: -37px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		margin-top: -20px;
+	} 
+
+	.main-inner_heading .text {
+		width: 213px;
+	}
+
+	.main-inner_heading .text-s {
+		width: 300px;
+		font-size: 13px;
+	}
+
+	.lesson-content::before,
+	.news-content:before {
+		width: 123%;
+		margin-left: -9%;
+	}
+
+	.main-content_container .answer-button div {
+		display: none;
+	}	
+
+	#step-two .step_head, #step-three .step_head {
+		width: 95%;
+	}
+
+	.step_text {
+		width: 80%;
+	}
+
+	.main-inner_heading .edit-profile-text {
+		font-size: 9px;
+		width: 150px;
+	}
+
+	.transaction_head, .transaction_item {
+	    padding-left: 10px;
+	}
+
+	.transaction_head {
+	    font-size: 15px;
+	}
+
+	.transaction_product {
+	    width: 30%;
+	}
+
+	.transaction_status {
+		margin-right: 10px;
+	}
+}
+
+@media screen and (max-width: 520px) {
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .digest-name {
+		width: 70%;
+	}
+
+	.profile {
+		flex-direction: column;
+		margin-bottom: 60px;
+	}
+
+	.profile_content {
+		margin-left: 0px;
+		margin-top: 15px;
+	}
+
+	.step-one_form {
+	    width: 90%;	    
+	}
+
+	.step_head {
+		width: 95%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	#main {
+		padding-top: 50px;
+	}
+
+	.offer_button {
+		margin: 0 auto 55px auto;
+	}
+
+	.new-login {
+		width: 100%;
+		height: 616px;
+	}
+
+	.new-login_head {
+		padding-left: 12%;
+	}
+	.dropdown-profile-wrap {
+		right: 18%;
+	}
+
+	.main-inner_heading .text-wrap {
+		margin-top: -25px;
+		left: 230px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		margin-top: -10px;
+		left: 150px;
+	}
+
+	.main-inner_heading .text {
+		line-height: 14px;
+		width: 100%;		
+		font-size: 11px;
+	}
+
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		font-size: 24px;		
+		width: 76%;
+	}
+
+	.user-info {
+		align-self: start;
+		margin-left: 0;
+	}
+
+	.user-info_name {
+		font-size: 13px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	.user-info_time {
+		font-size: 11px;
+	}
+
+	.add-discussion_form, .main-content_container .add-discussion_form {
+		width: 100%;
+		margin-top: 15px;
+	}
+
+	.add-discussion_reference {
+		font-size: 10px;
+		margin-left: 30px;
+	}
+
+	.additional {
+		justify-content: space-between;
+	}
+
+	.additional_tab:first-child,	
+	.additional_tab:nth-child(2),
+	.additional_tab:nth-child(3) {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.lesson-content::before,
+	.news-content:before {
+		width: 129%;
+		margin-left: -12%;
+	}
+
+	.one-question_info, .one-question_title {
+	    margin-left: 10px;
+	}	
+
+	#add-new-question {
+	    width: 100%;
+	}
+
+	.next2, .prev2 {
+	    bottom: 18%;
+	}
+
+	.main-inner_heading .edit-profile-heading {
+		width: 180px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		margin-top: 0px;
+		left: 210px;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	.mk_head {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.mk_footer {
+		padding-left: 20px;
+	}
+
+	.mk_view {
+		margin-left: 20px;
+	}
+
+	.one-mk_footer, .one-lesson_footer,
+	.one-lecture_footer, 
+	.one-qa-session_footer {
+		align-items: center;
+	}
+
+	.one-mk_footer-info:first-child,	
+	.one-mk_footer .mk_time,
+	.one-mk_footer .mk_view,
+	.one-lesson_footer-info:first-child,	
+	.one-lesson_footer .lesson_time,
+	.one-lesson_footer .lesson_view,
+	.one-lecture_footer-info:first-child,	
+	.one-lecture_footer .lecture_time,
+	.one-lecture_footer .lecture_view,
+	.one-qa-session_footer-info:first-child,	
+	.one-qa-session_footer .qa-session_time,
+	.one-qa-session_footer .qa-session_view {
+		margin-bottom: 5px;
+	}
+
+	.one-mk_footer-info,
+	.one-lesson_footer-info,
+	.one-lecture_footer-info,
+	.one-qa-session_footer-info {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.one-mk_footer .mk_time,
+	.one-lesson_footer .lesson_time,
+	.one-lecture_footer .lecture_time,
+	.one-qa-session_footer .qa-session_time {
+		margin-right: 0px;
+	}
+
+	.one-mk_footer .mk_view,
+	.one-lesson_footer .lesson_view,
+	.one-lecture_footer .lecture_view {
+		margin-left: 0px;
+	}
+}
+
+@media screen and (max-width: 454px) {
+	.main-inner_heading .text {		
+		font-size: 9px;
+	}	
+
+	.discussions_tabs {
+		flex-direction: column;		
+	}	
+
+	.form-wrap {
+		margin-top: 30px;				
+		margin-right: 0px;
+		align-self: center;
+		width: 88%;
+	}
+
+	.form-box, .discussions_search {
+		width: 100%;
+	}
+
+	.last-discussions_content .question {
+	    padding: 0 20px;
+	}
+
+	.last-discussions_content .question_info {
+		margin-left: 20px;
+	}
+}
+
+@media screen and (max-width: 443px) {
+
+	#header {
+		display: flex;
+	}
+
+	.mail {
+		display: none;
+	}
+
+	.offer_headline {
+		font-size: 30px;
+		line-height: 49px
+	}
+
+	.offer_item-text {
+		font-size: 16px;
+	}
+
+	.new-login_head {
+		padding-left: 9%;
+	}
+
+	.login_headline, .new_headline {
+		width: 95%;
+	}
+
+	.prev, .prev2 {
+	    left: -13%;
+	}
+
+	.next, .next2 {
+	    right: -13%;
+	}
+
+	.slideup {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 430px) {
+	.one-discussion {
+		padding: 35px 5px 38px 5px;
+	}
+
+	.main-content_container .one-discussion {
+	    padding: 67px 5px 41px 5px;
+	}
+
+	.add-discussion_reference {
+		margin-left: 10px;
+		margin-right: 12px;
+	}
+
+	.main-inner_heading .name {
+		font-size: 22px;
+		margin-right: 20px;
+	}
+
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		font-size: 24px;		
+	}
+
+	.main-inner_heading .text-wrap {
+		left: 200px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		left: 130px;
+	}
+
+	.main-inner_heading .question-mark {
+		margin-top: 4px;
+	}
+
+	.step-two_form input {
+		font-size: 13px;
+	}
+
+	.main-inner_heading .edit-profile-heading {
+		font-size: 24px;
+		margin-right: 10px;
+	}
+
+	.main-inner_heading .edit-profile-question-mark{
+		margin-top: 6px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		left: 210px;
+	}
+}
+
+@media screen and (max-width: 422px) {
+	.main-content_tabs::before {
+		width: 100%;
+	}
+
+	.main-content_tab:first-child {
+		margin-left: 0px;
+		margin-right: 27px;
+	}
+
+	.main-content_tab:nth-child(2) {
+		margin-right: 5px;
+	}
+
+	.answer-button .fa-mail-reply {
+		margin-right: 10px;
+	}
+
+	.answer-button div {
+		display: none;
+	}
+
+	.additional_tab:first-child,	
+	.additional_tab:nth-child(2),
+	.additional_tab:nth-child(3) {
+		margin-right: 0;
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width: 416px) {
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		font-size: 24px;
+	}
+
+	.lesson {
+		width: 100%;
+	}
+
+	.step-one_form button, .step-two_form button, .step_button {
+	    width: 95%;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.main-inner_heading .name {
+		font-size: 20px;
+		margin-right: 10px;
+	}
+
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		font-size: 24px;		
+	}
+
+	.main-inner_heading .text-wrap {
+		left: 170px;		
+	}
+
+	.main-inner_heading .text-wrap-s {
+		left: 110px;		
+	}	
+
+	.lesson-content::before,
+	.news-content:before {
+		width: 140%;
+		margin-left: -17%;
+	}
+
+	.qa-session_info {
+		padding: 65px 15px;
+	}
+
+	.qa-session_view {
+		margin-left: 30px;
+	}
+
+	.question {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+	.question_info {
+		width: 80%;
+	}
+
+	.question_comments, .question_info .fa-check,
+	.question_info .fa-ellipsis-h, .question_time,
+	.question_views {
+		font-size: 11px;
+	}
+
+	.question_time {
+		margin-right: 30px;		
+	}
+
+	.question_views {
+		margin-left: 30px;
+		margin-right: 30px;
+	}
+
+	.main-inner_heading .edit-profile-heading {
+		width: 145px;
+	}
+
+	.main-inner_heading .edit-profile-question-mark{
+		margin-top: 4px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		left: 180px;
+	}
+
+	.edit-profile {
+	    display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+}
+
+@media screen and (max-width: 390px) {
+	.fa-bell, .profile-top_info .fa-angle-down {
+		display: none;
+	}
+
+	.dropdown-profile-wrap {
+		right: 37%;
+	}
+
+	.add-discussion_head {
+		flex-direction: column;
+		align-items: start;
+	}
+
+	.add-discussion_reference-wrap {
+		margin-top: 5px;
+	}
+
+	.add-discussion_reference {
+		margin-left: 0px;		
+	}
+
+	.hamburger-icon {
+		margin-left: 40px;
+	}
+
+	.transaction_status {
+	    width: 17%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		width: 100%;
+	}
+
+	.additional::before {
+		top: 32.3px;
+	}
+
+	.additional_tab {
+		font-size: 13px;
+	}
+
+	.lecture_info {
+		padding: 40px 15px;
+	}
+
+	.lecture_button, .qa-session_button {
+		font-size: 15px;
+	}
+
+	.lecture_view, .qa-session_view  {
+		margin-left: 28px;
+	}
+
+	.qa-session_view {
+		margin-left: 20px;
+	}
+
+	.event-wrap {
+	    width: 100%;
+	}
+
+	.transaction_product {
+		margin-right: 5px;
+	}
+
+	.transaction_item {
+		font-size: 11px;
+	}
+}
+
+@media screen and (max-width: 365px) {
+	.new-login_head {
+		padding-left: 5%;
+	}
+
+	.switch {
+		margin: 0 20px;
+	}
+
+	.login_headline, .new_headline {
+		font-size: 18px;
+	}
+
+	.offer_button, .offer_button:focus {
+		width: 295px;
+	}
+
+	.new-login_name {
+		font-size: 16px;
+	}
+
+	.login_form button, .new_form button {
+		font-size: 16px;
+	}
+
+	.offer_item-text {
+		font-size: 14px;
+	}
+
+	.dropdown-profile-wrap {
+		right: 30%;
+	}
+
+	.dropdown-profile-wrap .fa-play {
+		left: 180px;
+	}
+
+	.main-inner_heading .text-wrap {
+		margin-top: -35px;
+	}
+
+	.main-inner_heading .text-wrap-s {
+		margin-top: -10px;
+	}
+
+	.main-inner_heading .one-mk-name,
+	.main-inner_heading .one-lesson-name,
+	.main-inner_heading .one-lecture-name,
+	.main-inner_heading .one-news-name,
+	.main-inner_heading .one-qa-session-name,
+	.main-inner_heading .digest-name {
+		font-size: 24px;
+	}
+
+	.user-info_time {
+		font-size: 9px;
+		margin-top: 2px;
+	}
+
+	.answer-button .fa-mail-reply {
+		margin-right: 0px;
+		margin-top: 5px;
+	}
+
+	.lesson_footer {
+		padding-left: 10px;
+	}
+
+	.lesson_button {
+		width: 190px;
+		font-size: 15px;
+	}
+
+	.step-two_form .c-date input:first-child {
+		margin-right: 5px;
+	}
+
+	.step-two_form .c-date input, .step-two_form .card-back input {
+	    width: 60px;
+	}	
+	
+	.step-two_form input {
+	    font-size: 10px;
+	}
+
+	.step-two_form button {
+		font-size: 17px;
+	}
+
+	.next2, .prev2, .next, .prev  {
+	    top: 61%;
+	}	
+
+	.event-name {
+		height: 60px;
+	}
+
+	.main-inner_heading .edit-profile-text-wrap {
+		margin-top: -20px;
+	}
+
+	.edit-profile {
+	    padding: 50px 10px;
+	}
+
+	.edit-profile_subscription, .edit-profile_card {
+		width: 100%;
+	}
+}
